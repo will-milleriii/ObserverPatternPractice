@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.Observer;
+// import java.util.Observer;
 
 public class WeatherData implements Subject{
     private ArrayList observers;
